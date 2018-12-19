@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OmdbApi</string>
+    <string name="detail">Detail</string>
+
+    <!--FILM DETAIL-->
+    <string name="plot">Description: %s</string>
+    <string name="actors">Actors: %s</string>
+    <string name="awards">Awards: %s</string>
+    <string name="country">Country: %s</string>
+    <string name="genre">Genre: %s</string>
+
+    <string name="search">Search</string>
+</resources>
